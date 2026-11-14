@@ -2,7 +2,7 @@
 
 Сайт цифрової агенції за макетом з Figma.
 
-Live Demo:
+Live Demo:https://mykhailyshynaviktoriia.github.io/landing-keepsake/
 
 Технології:
 - HTML5 та CSS3
